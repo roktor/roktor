@@ -6102,6 +6102,9 @@ section.lazy-placeholder:after {
 .cid-rDDWgRwPrb .team-item .item-caption {
   background: #efefef;
 }
+.cid-rDDWgRwPrb .item-role P {
+  text-align: center;
+}
 .cid-rDDVFmRKXP {
   padding-top: 45px;
   padding-bottom: 15px;
