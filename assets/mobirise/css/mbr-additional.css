@@ -6064,7 +6064,7 @@ section.lazy-placeholder:after {
 }
 .cid-rDDWgRwPrb {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rDDWgRwPrb .mbr-section-subtitle {
@@ -6098,9 +6098,6 @@ section.lazy-placeholder:after {
 .cid-rDDWgRwPrb .team-item .item-social .socicon {
   color: #232323;
   font-size: 17px;
-}
-.cid-rDDWgRwPrb .team-item .item-caption {
-  background: #efefef;
 }
 .cid-rDDWgRwPrb .item-role P {
   text-align: center;
